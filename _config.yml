@@ -77,7 +77,7 @@ theme: Chic
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
-deploy:
+deploy: 
   type: git
   repo: https://github.com/uxun/uxun.github.io
   branch: gh-pages
